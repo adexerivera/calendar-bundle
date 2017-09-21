@@ -1,8 +1,9 @@
 {
-	"name" : "philkingston/calendar-bundle",
+	"name" : "adexerivera/calendar-bundle",
 	"description" : "This bundle allows you to integrate the jQuery FullCalendar plugin into your Symfony2 application.",
 	"type" : "symfony-bundle",
-	"authors" : [{
+	"authors" : [
+        {
 			"name" : "Mike Yudin",
 			"email" : "mikeyudin@gmail.com",
 			"role" : "Developer"
